@@ -1,0 +1,6 @@
+{
+  "name": "SamasyaSetu",
+  "description": "Jharkhand Societal Innovation Collaboration Portal connecting citizens, Panchayati Raj institutions, Higher Education Institutions (HEIs), industry/CSR, and government departments to solve community challenges in line with NEP 2020.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
